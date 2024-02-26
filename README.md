@@ -1,3 +1,2 @@
-#Programa em Javascript onde é possivel ouvir teclas de instrumentos músicais ao clicar no botão
+#Programa em Javascript onde é possivel ouvir os sons de instrumentos músicais ao clicar nos botões correspondentes.
 
-alura-midi-seven-rose.vercel.app
